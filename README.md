@@ -7,3 +7,5 @@
 - programming
 
 notes中包含stanford的cs224n课程笔记和paperweekly的记录
+
+test brunch
