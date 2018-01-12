@@ -70,8 +70,16 @@ chatbots/dialog agents
 
 大量的encoding造成一个严重的问题 `sparsity`
 
-深度学习可以使用监督学习/无监督学习
+#### 1.4 深度学习
 
-## 2. 线性代数基础
+DL和普通ML的区别
 
-### 2.1 性质和计算
+ML：对于分类回归等ML，计算机做的基本是数值运算(maximum)等来方便进行系数的adjust 由人类进行学习和判断(machine learn nothing) 90%的时间是用来做特征选择和数据规范化
+
+deep learning：layers进行representation 神经网络
+
+e.g. 判断是否是一个公司名称 看是否有大写字母(特征 )
+
+## 2. 线性代数基础 
+
+### 2.1 性质和计算  
